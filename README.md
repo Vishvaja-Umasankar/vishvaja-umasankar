@@ -45,7 +45,7 @@ A machine learning project exploring hospital data to predict patient length of 
 
 **Technologies:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook
 
-**Project:**
+**Repository:**
 - [Project](https://github.com/Vishvaja-Umasankar/Hospital_length_of-stay)
 
 ### 🚗 Used Vehicle Price Prediction
