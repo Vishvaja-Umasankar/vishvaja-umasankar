@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/vishvaja-umasankar">GitHub</a> |
-  <a href="ADD_YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vishvaja-umasankar-52933a180/">LinkedIn</a>
 </p>
 
 ---
@@ -45,9 +45,8 @@ A machine learning project exploring hospital data to predict patient length of 
 
 **Technologies:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook
 
-**Repositories:**
-- [Regression Project](ADD_REGRESSION_REPOSITORY_URL)
-- [Classification Project](ADD_CLASSIFICATION_REPOSITORY_URL)
+**Project:**
+- [Project](https://github.com/Vishvaja-Umasankar/Hospital_length_of-stay)
 
 ### 🚗 Used Vehicle Price Prediction
 
@@ -62,7 +61,7 @@ A supervised machine learning project designed to estimate used vehicle selling 
 
 **Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
 
-**Repository:** [View Project](ADD_VEHICLE_PROJECT_REPOSITORY_URL)
+**Repository:** [View Project](https://github.com/Vishvaja-Umasankar/used-vehicle-ml-prediction)
 
 ---
 
