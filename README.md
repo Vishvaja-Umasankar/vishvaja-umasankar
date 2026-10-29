@@ -61,7 +61,7 @@ A supervised machine learning project designed to estimate used vehicle selling 
 
 **Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
 
-**Repository:** [View Project](https://github.com/Vishvaja-Umasankar/used-vehicle-ml-prediction)
+**Repository:** [Project](https://github.com/Vishvaja-Umasankar/used-vehicle-ml-prediction)
 
 ---
 
